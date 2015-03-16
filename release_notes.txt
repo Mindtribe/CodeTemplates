@@ -1,5 +1,10 @@
 Eclipse Code Style and Template
 
+--- r5 ---
+
+* No change to code style
+* Added file comments for C source files to aid in code organiziation.
+
 
 --- r4 ---
 
@@ -17,7 +22,7 @@ Eclipse Code Style and Template
     * Wrap conditional expressions only when necessary
     * (C++) Start initializer list on a new line (seems easier to read)
     * Indent scope blocks in case statements. These are rare and ugly, but
-      indenting them makes them easier to read when they exist (usually to 
+      indenting them makes them easier to read when they exist (usually to
       declare locals inside of a case)
 
 

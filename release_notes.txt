@@ -1,0 +1,7 @@
+Eclipse Code Style and Template
+
+
+--- r1 ---
+
+Initial Release:
+ * Exported from Eclipse Indigo

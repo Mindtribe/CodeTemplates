@@ -1,5 +1,13 @@
 Eclipse Code Style and Template
 
+
+--- r4 ---
+
+* No change to code style
+* Added C++03/C99/C90 file comments with versions for MindTribe BSD license
+  and copyright only
+
+
 --- r3 ---
 
 * Updated for Eclipse Juno

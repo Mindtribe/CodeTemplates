@@ -38,7 +38,7 @@
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #include "${file_base}.h"
@@ -74,7 +74,7 @@ ${declarations}
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 ${includes}
@@ -114,7 +114,7 @@ ${namespace_end}
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #ifndef ${include_guard_symbol}
@@ -460,7 +460,7 @@ ${declarations}
 ${declarations}
 
 #endif
-</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxHeader.contenttype_context" deleted="false" description="Default template for newly created C++03 header files with a MindTribe BSD License" enabled="true" name="C++03 header template (MT BSD License)">/*  ----------------------------------------------------------------------------
+</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxHeader.contenttype_context" deleted="false" description="Default template for newly created C++03 header files with a MindTribe BSD License" enabled="true" name="C++11 header template (MT BSD License)">/*  ----------------------------------------------------------------------------
     Copyright (c) ${year}, MindTribe Product Engineering, Inc.
     All Rights Reserved.
 
@@ -490,7 +490,7 @@ ${declarations}
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #ifndef ${include_guard_symbol}
@@ -500,7 +500,7 @@ ${typecomment}
 ${declarations}
 
 #endif
-</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxSource.contenttype_context" deleted="false" description="Template for newly created C++03 source files with a MindTribe BSD License" enabled="true" name="C++03 source template (MT BSD License)">/*  ----------------------------------------------------------------------------
+</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxSource.contenttype_context" deleted="false" description="Template for newly created C++03 source files with a MindTribe BSD License" enabled="true" name="C++11 source template (MT BSD License)">/*  ----------------------------------------------------------------------------
     Copyright (c) ${year}, MindTribe Product Engineering, Inc.
     All Rights Reserved.
 
@@ -530,31 +530,31 @@ ${declarations}
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #include "${file_base}.h"
 
 ${declarations}
-</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxSource.contenttype_context" deleted="false" description="Template for newly created C++03 source files with just the MindTribe copyright" enabled="true" name="C++03 source template (MT Copyright Only)">/*  ----------------------------------------------------------------------------
+</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxSource.contenttype_context" deleted="false" description="Template for newly created C++03 source files with just the MindTribe copyright" enabled="true" name="C++11 source template (MT Copyright Only)">/*  ----------------------------------------------------------------------------
     Copyright (c) ${year}, MindTribe Product Engineering, Inc.
     All Rights Reserved.
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #include "${file_base}.h"
 
 ${declarations}
-</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxHeader.contenttype_context" deleted="false" description="Default template for newly created C++03 header files with just the MindTribe copyright" enabled="true" name="C++03 header template (MT Copyright Only)">/*  ----------------------------------------------------------------------------
+</template><template autoinsert="false" context="org.eclipse.cdt.core.cxxHeader.contenttype_context" deleted="false" description="Default template for newly created C++03 header files with just the MindTribe copyright" enabled="true" name="C++11 header template (MT Copyright Only)">/*  ----------------------------------------------------------------------------
     Copyright (c) ${year}, MindTribe Product Engineering, Inc.
     All Rights Reserved.
 
     Author(s):  Your Name &lt;you@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 14882:2003 (C++03)
+    Target(s):  ISO/IEC 14882:2011 (C++11)
     ------------------------------------------------------------------------- */
 
 #ifndef ${include_guard_symbol}

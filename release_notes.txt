@@ -1,9 +1,14 @@
 Eclipse Code Style and Template
 
+--- r6 ---
+
+* No change to code style
+* Changed C++ file comments from C++03 standard to C++11
+
 --- r5 ---
 
 * No change to code style
-* Added file comments for C source files to aid in code organiziation.
+* Added file comments for C source files to aid in code organization.
 
 
 --- r4 ---

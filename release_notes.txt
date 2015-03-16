@@ -5,3 +5,7 @@ Eclipse Code Style and Template
 
 Initial Release:
  * Exported from Eclipse Indigo
+
+--- r2 ---
+
+Tweaked line-wrapping for initializers to preserve wrapping (if possible)

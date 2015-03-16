@@ -5,10 +5,10 @@
  */</template><template autoinsert="false" context="org.eclipse.cdt.ui.text.codetemplates.filecomment_context" deleted="false" description="Comment for created C/C++ files" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.filecomment" name="filecomment">/*  ----------------------------------------------------------------------------
     Copyright(C) ${year} MindTribe Product Engineering, Inc. All Rights Reserved.
 
-    Author:     ${user}, MindTribe Product Engineering
-                &lt;${user}@mindtribe.com&gt;
+    Author(s):  MindTribe Product Engineering
+                ${user} &lt;${user}@mindtribe.com&gt;
 
-    Target(s):  ISO/IEC 9899:1990 (C90 - target independent)
+    Target(s):  ISO/IEC 9899:1990 (C90)
 
     Purpose:    
     ------------------------------------------------------------------------- */</template><template autoinsert="true" context="org.eclipse.cdt.ui.text.codetemplates.typecomment_context" deleted="false" description="Comment for created classes" enabled="true" id="org.eclipse.cdt.ui.text.codetemplates.typecomment" name="typecomment">/*

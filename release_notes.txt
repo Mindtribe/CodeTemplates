@@ -1,11 +1,24 @@
 Eclipse Code Style and Template
 
+--- r3 ---
 
---- r1 ---
+* Updated for Eclipse Juno
+* Updated file comments with minor modifications to the target default and
+  authors (attempts to better support multiple authors)
+* Updated style to:
+    * Wrap conditional expressions only when necessary
+    * (C++) Start initializer list on a new line (seems easier to read)
+    * Indent scope blocks in case statements. These are rare and ugly, but
+      indenting them makes them easier to read when they exist (usually to 
+      declare locals inside of a case)
 
-Initial Release:
- * Exported from Eclipse Indigo
 
 --- r2 ---
 
-Tweaked line-wrapping for initializers to preserve wrapping (if possible)
+* Tweaked line-wrapping for initializers to preserve wrapping (if possible)
+
+
+--- r1 ---
+
+* Initial Release
+* Exported from Eclipse Indigo

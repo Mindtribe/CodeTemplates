@@ -1,5 +1,12 @@
 Eclipse Code Style and Template
 
+--- r7 ---
+
+* No change to code style or file comments
+* Split file templates into two files. All templates are available from both, but
+  one now defaults to the BSD License when creating new files and one
+  defaults to the MT Copyright only.
+
 --- r6 ---
 
 * No change to code style

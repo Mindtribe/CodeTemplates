@@ -1,4 +1,11 @@
-Eclipse Code Style and Template
+Code Templates
+
+--- r8 ---
+
+* Updated for Eclipse Mars
+* No change to code style or file comments
+* Put Eclipse files in subfolder
+* Added file templates for non-Eclipse IDEs
 
 --- r7 ---
 

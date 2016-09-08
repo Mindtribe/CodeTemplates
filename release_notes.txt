@@ -1,5 +1,9 @@
 Code Templates
 
+--- r9 ---
+
+* Fixed broken Eclipse code templates from r8 release.
+
 --- r8 ---
 
 * Updated for Eclipse Mars
